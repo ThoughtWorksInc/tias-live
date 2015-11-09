@@ -1,2 +1,4 @@
 hts-cache/
 hts-log.txt
+.idea/
+*.iml
