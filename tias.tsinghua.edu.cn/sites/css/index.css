@@ -566,7 +566,7 @@ th {
 /* line 34 : /app/src/components/lists/styles/activity-list.styl */
 .activity-list-item{position:relative;margin-bottom:40px;}
 /* line 38 : /app/src/components/lists/styles/activity-list.styl */
-.activity-list-item .icon{font-size:22px;color:#a3a3a3;margin-right:10px;vertical-align:middle}
+.activity-list-item .icon{font-size:22px;color:#a3a3a3;margin-right:10px}
 /* line 47 : /app/src/components/lists/styles/activity-list.styl */
 .activity-list-item__wrapper{border-bottom:1px solid #efefef;margin-right:56px;*zoom:1;}
 /* line 276 : /app/node_modules/jeet/stylus/jeet/_grid.styl */
@@ -588,7 +588,7 @@ th {
 /* line 87 : /app/src/components/lists/styles/activity-list.styl */
 .activity-list-item__title{color:#a08e74;margin-bottom:16px;font-size:16px;line-height:1}
 /* line 94 : /app/src/components/lists/styles/activity-list.styl */
-.activity-list-item__date-group{margin-top:12%}
+.activity-list-item__date-group{margin-top:0}
 /* line 98 : /app/src/components/lists/styles/activity-list.styl */
 .activity-list-item__start-time{position:absolute;top:0;right:-136px;z-index:2;border:1px solid #efefef;width:80px;}
 /* line 106 : /app/src/components/lists/styles/activity-list.styl */
