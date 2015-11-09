@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tias.tsinghua.edu.cn	TRUE	/	FALSE	1999999999	JSESSIONID	bacHD-KwP14Vp4h-_lQdv
+tias.tsinghua.edu.cn	TRUE	/	FALSE	1999999999	thuwebcookie	2617732874.20480.0000
+
