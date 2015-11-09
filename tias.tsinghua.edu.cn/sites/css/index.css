@@ -1352,7 +1352,7 @@ th {
 /* line 1 : /app/src/components/specials/styles/activity-detail.styl */
 
 /* line 3 : /app/src/components/specials/styles/activity-detail.styl */
-.activity-detail .icon{font-size:22px;color:#a3a3a3;margin-right:10px;vertical-align:middle}@media (min-width:768px){
+.activity-detail .icon{font-size:22px;color:#a3a3a3;margin-right:10px}@media (min-width:768px){
 /* line 12 : /app/src/components/specials/styles/activity-detail.styl */
 .activity-detail .activity-detail__avatar{*zoom:1;float:left;clear:none;text-align:inherit;width:31.33333333333333%;margin-left:0%;margin-right:3%;}
 /* line 276 : /app/node_modules/jeet/stylus/jeet/_grid.styl */
@@ -1410,7 +1410,7 @@ th {
 /* line 104 : /app/src/components/specials/styles/activity-detail.styl */
 .activity-detail__language{color:#646464}
 /* line 108 : /app/src/components/specials/styles/activity-detail.styl */
-.activity-detail__date-group{margin-top:15%;margin-bottom:3%;color:#646464}
+.activity-detail__date-group{margin-bottom:3%;color:#646464}
 /* line 114 : /app/src/components/specials/styles/activity-detail.styl */
 .activity-detail__address{margin-bottom:3%;color:#646464}
 /* line 119 : /app/src/components/specials/styles/activity-detail.styl */
